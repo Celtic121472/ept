@@ -181,6 +181,7 @@ a:hover {
  
  
 footer {
+  margin-top: -1rem;
   position: absolute;
   width: 1380px;
   height: 70px;
@@ -192,8 +193,13 @@ p{
   text-align: center;
 }
  
+
 #s{
-  margin-left:675px;
+  display:flex;
+  justify-content:right;
+  margin-right: 4rem;
+  gap:2rem;
+  
   
 }
  
